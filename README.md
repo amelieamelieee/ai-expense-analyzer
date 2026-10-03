@@ -12,7 +12,7 @@ Built by a finance professional using AI-assisted development ("vibecoding") wit
 
 > 🔗 **Live demo:** _add your Streamlit Cloud link here_
 
-![Dashboard overview](docs/screenshots/overview.png)
+![Dashboard overview](overview.png)
 
 ---
 
@@ -43,7 +43,7 @@ Bank apps show transactions, not answers. Spreadsheets take hours. This tool ans
 
 | Subscriptions & alerts | Spending trends |
 |---|---|
-| ![Alerts](docs/screenshots/alerts.png) | ![Spending](docs/screenshots/spending.png) |
+| ![Alerts](alerts.png) | ![Spending](spending.png) |
 
 ## Privacy by design 🔒
 
