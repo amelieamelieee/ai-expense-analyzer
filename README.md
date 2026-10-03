@@ -10,7 +10,7 @@ Built by a finance professional using AI-assisted development ("vibecoding") wit
 ![Claude](https://img.shields.io/badge/AI-Claude-D97757)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
-> 🔗 **Live demo:** _add your Streamlit Cloud link here_
+> 🔗 **Live demo:** [ai-expense-analyzer.streamlit.app](https://ai-expense-analyzer-fvv78xgdsemiajfkjy2sqe.streamlit.app/) — opens with sample data, no sign-up needed
 
 ![Dashboard overview](overview.png)
 
